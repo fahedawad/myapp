@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">my app</string>
+    <string name="id">Company ID</string>
+    <string name="name">Company Name</string>
+    <string name="phone">Company Phone</string>
+    <string name="coemail">Company Email</string>
+    <string name="descrption">Company</string>
+    <string name="login">Login</string>
+    <string name="Sign">Sign in</string>
+    <string name="location">Company Location</string>
+    <string name="e">Email</string>
+    <string name="p">Password</string>
+    <string name="creat">Create a new account</string>
+    <string name="student">Student ID</string>
+    <string name="namestu">Student Name</string>
+    <string name="gender">Student Gender</string>
+    <string name="lang">student Language</string>
+    <string name="emailstu">Student Email</string>
+    <string name="uni">Student Univarsity</string>
+    <string name="major">Student Major</string>
+    <string name="email">Company Email</string>
+    <string name="de">Company</string>
+
+</resources>

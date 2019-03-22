@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">my app</string>
+    <string name="id">هوية الشركة</string>
+    <string name="name">اسم الشركة</string>
+    <string name="phone">رقم هاتف الشركة</string>
+    <string name="email">بريد الالكتروني لشركة</string>
+    <string name="de">الشركة</string>
+    <string name="location">موقع الشركة</string>
+    <string name="descrption">وصف الشركة</string>
+    <string name="login">دخول</string>
+    <string name="Sign">تسجبل الدخول</string>
+    <string name="coemail">البريد الالكتروني لشركة</string>
+    <string name="e">البريد الالكتروني</string>
+    <string name="p">الرقم السري</string>
+    <string name="creat">انشاء حساب جديد</string>
+    <string name="student">هوية الطالب</string>
+    <string name="namestu">اسم الطالب</string>
+    <string name="gender">جنس الطالب</string>
+    <string name="lang">لغة الطالب</string>
+    <string name="emailstu">البريد الالكتروني لطالب</string>
+    <string name="uni">جامعة الطالب</string>
+    <string name="major">"تخصص الطالب "</string>
+</resources>
